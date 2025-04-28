@@ -3,8 +3,8 @@
 <!-- TOC -->
 
 - [<center>Awesome AI</center>](#centerawesome-aicenter)
-    - [AI Assistant](#ai-assistant)
-    - [Agent](#agent)
+    - [AI Assistants](#ai-assistants)
+    - [Agents](#agents)
     - [Large Language Models (LLMs)](#large-language-models-llms)
     - [AI Extension Tools](#ai-extension-tools)
     - [AI Community](#ai-community)
@@ -29,7 +29,7 @@
 
 <!-- /TOC -->
 
-## AI Assistant
+## AI Assistants
 [AI·Joe](https://ai.ilark.io/) AI assistant to support workflows
 
 [Phind](https://www.phind.com)  AI search engine, intelligent Q&A and content generation
@@ -111,7 +111,7 @@
 [Lazy Customer Service](https://github.com/cs-lazy-tools/ChatGPT-On-CS) Integrated customer service system based on LLM knowledge base
 
 
-## Agent
+## Agents
 [MetaGPT](https://github.com/geekan/MetaGPT) Enables GPTs to form a software company and collaborate to handle more complex tasks
 
 [AutoGen](https://github.com/microsoft/autogen) Develop LLM applications by enabling multi-agent conversations to solve tasks
